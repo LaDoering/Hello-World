@@ -3,8 +3,8 @@ First Repository
 ### Heading 1
 **Hello!**
 
-- [Project Title}.(#Project-Title).
-- [Description].(#Description).
+- [Project Title](#Project-Title)
+- [Description](#Description)
 
 ## Project Title
 
